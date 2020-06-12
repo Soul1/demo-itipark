@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "68ba11c02891dc7a6203cb44ac6a0773",
+    "revision": "28ca724f5c2207c74a8e95f09fcb9a63",
     "url": "/demo-itipark/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/demo-itipark/static/css/2.8ff17cee.chunk.css"
   },
   {
-    "revision": "9c7a5926f86626df560c",
-    "url": "/demo-itipark/static/css/main.729d22ff.chunk.css"
+    "revision": "33ce7dfe045e332c3775",
+    "url": "/demo-itipark/static/css/main.b567147d.chunk.css"
   },
   {
     "revision": "622c1460a8e97a05be8a",
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/demo-itipark/static/js/2.7ad1c794.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "9c7a5926f86626df560c",
-    "url": "/demo-itipark/static/js/main.788bbaa5.chunk.js"
+    "revision": "33ce7dfe045e332c3775",
+    "url": "/demo-itipark/static/js/main.4ecb5155.chunk.js"
   },
   {
     "revision": "03d11c60e1f177f1faa6",
