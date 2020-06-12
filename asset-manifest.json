@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/demo-itipark/static/css/main.406bb4d1.chunk.css",
+    "main.js": "/demo-itipark/static/js/main.788bbaa5.chunk.js",
+    "main.js.map": "/demo-itipark/static/js/main.788bbaa5.chunk.js.map",
+    "runtime-main.js": "/demo-itipark/static/js/runtime-main.5f90f460.js",
+    "runtime-main.js.map": "/demo-itipark/static/js/runtime-main.5f90f460.js.map",
+    "static/css/2.8ff17cee.chunk.css": "/demo-itipark/static/css/2.8ff17cee.chunk.css",
+    "static/js/2.7ad1c794.chunk.js": "/demo-itipark/static/js/2.7ad1c794.chunk.js",
+    "static/js/2.7ad1c794.chunk.js.map": "/demo-itipark/static/js/2.7ad1c794.chunk.js.map",
+    "index.html": "/demo-itipark/index.html",
+    "precache-manifest.25c64c1e2fb9d76533e853ed52c479f4.js": "/demo-itipark/precache-manifest.25c64c1e2fb9d76533e853ed52c479f4.js",
+    "service-worker.js": "/demo-itipark/service-worker.js",
+    "static/css/2.8ff17cee.chunk.css.map": "/demo-itipark/static/css/2.8ff17cee.chunk.css.map",
+    "static/css/main.406bb4d1.chunk.css.map": "/demo-itipark/static/css/main.406bb4d1.chunk.css.map",
+    "static/js/2.7ad1c794.chunk.js.LICENSE.txt": "/demo-itipark/static/js/2.7ad1c794.chunk.js.LICENSE.txt",
+    "static/media/index.scss": "/demo-itipark/static/media/prev.79a7e580.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5f90f460.js",
+    "static/css/2.8ff17cee.chunk.css",
+    "static/js/2.7ad1c794.chunk.js",
+    "static/css/main.406bb4d1.chunk.css",
+    "static/js/main.788bbaa5.chunk.js"
+  ]
+}
