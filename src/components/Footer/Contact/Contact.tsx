@@ -7,6 +7,8 @@ const Contact: React.FC = () => {
     setForm({...form, [e.target.name]: e.target.value})
   }
   const onSubmit = () => {
+    debugger
+    setForm({firstName: '', surname: '', message: ''})
     console.log(form)
   }
   return (
